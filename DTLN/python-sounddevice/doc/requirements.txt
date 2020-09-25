@@ -1,0 +1,4 @@
+Jinja2
+Pygments
+Sphinx
+Sphinx-RTD-Theme
